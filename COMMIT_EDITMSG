@@ -1,0 +1,7 @@
+Enhance transcription tool with history saving and file download options
+
+Improves transcription viewer component with save to history, downloads, timeline fixes in transcription-viewer.tsx and transcription-history.tsx.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 9d1e1cdc-4a52-44c6-936a-829bd507e00d
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/c4d63425-ae41-40a9-9286-b27f91d5c100/9d1e1cdc-4a52-44c6-936a-829bd507e00d/stKI43B
